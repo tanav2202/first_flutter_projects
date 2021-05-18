@@ -1,6 +1,6 @@
-# xyz
+#Basic flutter app
 
-A new Flutter project.
+My first ever app dev project
 
 ## Getting Started
 
